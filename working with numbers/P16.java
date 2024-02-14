@@ -1,0 +1,1 @@
+//calculate the possible decoding of given digit sequence
